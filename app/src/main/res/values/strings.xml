@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dynamic Views</string>
+
+
+        <string-array name="types">
+            <item>Netflix</item>
+            <item>Amazon Prime</item>
+            <item>Wynk Music</item>
+        </string-array>
+
+</resources>
